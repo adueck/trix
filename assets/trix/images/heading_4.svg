@@ -15,8 +15,8 @@
  <flowRoot fill="black" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="12.375" y="47" width="118.06" height="105.5"/></flowRegion><flowPara/></flowRoot>
  <g>
   <path id="Shape" d="m3.1959 3.984h13.031v3h-5.016v12h-3v-12h-5.016v-3z"/>
-  <g aria-label="1">
-   <path d="m15.082 17.251h2.2135v-6.2826l-2.2721 0.46875v-1.7057l2.2591-0.46875h2.3828v7.9883h2.2135v1.7318h-6.7969z" stroke-width="2.4575"/>
+  <g aria-label="4">
+   <path d="m18.429 11.326-2.7474 4.069h2.7474zm-0.41667-2.0638h2.7865v6.1328h1.3867v1.8164h-1.3867v1.7708h-2.3698v-1.7708h-4.3099v-2.1484z" stroke-width="2.4575"/>
   </g>
  </g>
 </svg>
