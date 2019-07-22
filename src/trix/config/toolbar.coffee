@@ -4,7 +4,7 @@ Trix.config.toolbar =
   getDefaultHTML: -> """
     <div class="trix-button-row">
       <span class="trix-button-group trix-button-group--text-tools" data-trix-button-group="text-tools">
-        <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-1" data-trix-attribute="heading2" title="#{lang.heading1}" tabindex="-1">#{lang.heading1}</button>
+        <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-1" data-trix-attribute="heading1" title="#{lang.heading1}" tabindex="-1">#{lang.heading1}</button>
         <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-2" data-trix-attribute="heading2" title="#{lang.heading2}" tabindex="-1">#{lang.heading2}</button>
         <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-3" data-trix-attribute="heading3" title="#{lang.heading3}" tabindex="-1">#{lang.heading3}</button>
         <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-4" data-trix-attribute="heading4" title="#{lang.heading4}" tabindex="-1">#{lang.heading4}</button>
